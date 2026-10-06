@@ -30,7 +30,7 @@ I'm an aspiring **Data Scientist** with a strong foundation in **Data Analytics 
 
 ### ⚙️ My Workflow
 
-`Business Question` ➜ `Data Collection` ➜ `Cleaning & EDA` ➜ `Modeling / Analysis` ➜ `Visualization` ➜ `Insights & Recommendations`
+`Business Question` → `Data Collection` → `Cleaning & EDA` → `Modeling / Analysis` → `Visualization` → `Insights & Recommendations`
 
 ---
 
@@ -38,7 +38,7 @@ I'm an aspiring **Data Scientist** with a strong foundation in **Data Analytics 
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
 | **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
