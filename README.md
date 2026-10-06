@@ -75,4 +75,6 @@ I'm an aspiring **Data Scientist** with a strong foundation in **Data Analytics 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhargavbolisetti2005-blip&show_ico
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargavbolisetti2005-blip&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavbolisetti2005-blip&layout=compact&theme=radical&hide_border=true" height="170"/>
+</div>
